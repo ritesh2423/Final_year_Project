@@ -31,12 +31,6 @@ cd disease-prediction
 Make sure you have Python 3.7+ installed. Then install the required libraries:
 
 ```bash
-pip install -r requirements.txt
-```
-
-> If `requirements.txt` is not available, manually install:
-
-```bash
 pip install pandas numpy scikit-learn streamlit
 ```
 
