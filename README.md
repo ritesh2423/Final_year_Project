@@ -14,7 +14,9 @@ This project predicts diseases based on symptoms entered by users. It uses multi
 ├── Training data.csv        # Training dataset with symptoms and prognosis
 ├── Testing data.csv         # Testing dataset for evaluation
 ├── outputt.png              # Output screenshot (optional for visualization)
-└── README.md                # Project documentation
+├── implementation paper     # paper based on the implementation of models
+├── presentation ppt         # Ppt based on the project for better understanding 
+|__ README.md                # Project documentation
 ```
 
 ## 🚀 How to Run the Project
