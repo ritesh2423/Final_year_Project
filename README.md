@@ -72,7 +72,9 @@ Each model:
 
 ## 📷 Sample Output
 
-A screenshot of the app interface (`outputt.png`) showing predicted disease and probabilities is included for demo purposes.
+A screenshot of the app interface showing predicted disease and probabilities is included for demo purposes.
+![outputt](https://github.com/user-attachments/assets/c765175b-ea24-4a51-9915-a897ac144f79)
+
 
 ## 📌 Future Improvements
 
