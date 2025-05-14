@@ -85,7 +85,6 @@ A screenshot of the app interface showing predicted disease and probabilities is
 
 ## 👨‍💻 Authors
 
-- Javed Miya  
 - Ritesh Kumar  
 - Udit Maurya  
 - Vishal Yadav  
